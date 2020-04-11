@@ -14,13 +14,13 @@
   ],
   "instructors": [
     {
-      "id": 1,
-      "avatar_url": "https://avatars2.githubusercontent.com/u/41512408?s=460&v=4",
-      "name": "Wesley Moreira",
-      "birth": 654739200000,
+      "id": 2,
+      "avatar_url": "https://media-exp1.licdn.com/dms/image/C4E03AQFm4JNUs0Z6jQ/profile-displayphoto-shrink_100_100/0?e=1591833600&v=beta&t=umyIEt6x_HscQCQPtw21_AVTb-NOkuV-j488u5dnDC4",
+      "name": "Wesley Guerra",
+      "birth": 717897600000,
       "gender": "M",
-      "services": "Musculação, natação",
-      "created_at": 1584901307158
+      "services": "Dev Jr",
+      "created_at": 1586631043933
     }
   ]
 }
